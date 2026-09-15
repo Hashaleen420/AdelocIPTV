@@ -20,6 +20,27 @@ A premium, high-performance Android IPTV and VOD media player built from the gro
 * **Media3 (ExoPlayer):** Custom media playback engine optimized for streaming arrays.
 * **Coroutines & Flow:** Asynchronous data handling for buttery smooth list scrolling and background EPG fetching.
 
+
+<details>
+<summary>📸 <b>Click to View App Screenshots & UI</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113229.png" width="700" alt="App Screenshot 1" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113234.png" width="700" alt="App Screenshot 2" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113248.png" width="700" alt="App Screenshot 3" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113352.png" width="700" alt="App Screenshot 4" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113408.png" width="700" alt="App Screenshot 5" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113413.png" width="700" alt="App Screenshot 6" />
+</p>
+
+</details>
+
 ## 🍿 Upcoming Features
 
 - [ ] Complete UI Refactor using the `Inter` typography suite for a cinematic feel.
