@@ -20,6 +20,15 @@ A premium, high-performance Android IPTV and VOD media player built from the gro
 * **Media3 (ExoPlayer):** Custom media playback engine optimized for streaming arrays.
 * **Coroutines & Flow:** Asynchronous data handling for buttery smooth list scrolling and background EPG fetching.
 
+## 🍿 Upcoming Features
+
+- [ ] Complete UI Refactor using the `Inter` typography suite for a cinematic feel.
+- [ ] Binge Mode (Auto-Play Next Episode with manual skip controls).
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 <details>
 <summary>📸 <b>Click to View App Screenshots & UI</b></summary>
@@ -41,11 +50,6 @@ A premium, high-performance Android IPTV and VOD media player built from the gro
 
 </details>
 
-## 🍿 Upcoming Features
+[![Latest Release](https://img.shields.io/github/v/release/Hashaleen420/AdelocIPTV?color=brightgreen&label=Download%20Latest%20APK&logo=android&style=for-the-badge)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest)
 
-- [ ] Complete UI Refactor using the `Inter` typography suite for a cinematic feel.
-- [ ] Binge Mode (Auto-Play Next Episode with manual skip controls).
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
