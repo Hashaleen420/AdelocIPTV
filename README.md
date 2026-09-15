@@ -46,9 +46,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113408.png" width="700" alt="App Screenshot 5" />
   <br><br>
   <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113413.png" width="700" alt="App Screenshot 6" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-192536.png" width="700" alt="App Screenshot 7" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-192532.png" width="700" alt="App Screenshot 8" />
 </p>
 
 </details>
+
 
 [![Latest Release](https://img.shields.io/github/v/release/Hashaleen420/AdelocIPTV?color=brightgreen&label=Download%20Latest%20APK&logo=android&style=for-the-badge)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest)
 
