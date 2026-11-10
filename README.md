@@ -1,60 +1,48 @@
 # Adeloc IPTV 📺✨
 
-A premium, high-performance Android IPTV and VOD media player built from the ground up using Jetpack Compose and ExoPlayer. Designed for power users, Adeloc IPTV strips away the clutter of standard players and delivers a cinematic, highly customizable viewing experience.
+[![Release](https://img.shields.io/badge/version-v3.0.0-blue.svg)](https://github.com/your-username/adeloc-iptv/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple.svg)](https://kotlinlang.org/)
+[![Android TV](https://img.shields.io/badge/Android%20TV-Supported-green.svg)](https://developer.android.com/tv)
 
-## 🚀 Core Features
+A premium, high-performance Android & Android TV media player built from the ground up using **Jetpack Compose** and **Media3 ExoPlayer**. Engineered for power users, Adeloc IPTV delivers a fast, clutter-free, and cinematic viewing experience with native TV remote control support.
 
-* **Advanced Custom ExoPlayer Engine:** Native hardware support for complex audio codecs (AC3, E-AC3, DTS) ensuring smooth playback without audio drops.
-* **Smart Playlist Management:** Add, edit, and seamlessly switch between multiple M3U and Xtreme Codes (XC) playlists.
-* **Multi-View Experience:** Watch multiple live streams simultaneously without audio or video collision. 
-* **Dynamic TV Guide (EPG):** Fully integrated electronic program guide with offline caching.
-* **Premium UX & Gesture Controls:** Sweip up/down for brightness and volume, paired with a sleek, non-intrusive UI.
-* **Picture-in-Picture (PiP):** Seamless background playback while navigating the device.
-* **Parental Controls:** PIN-protected categories to securely lock sensitive content.
-* **Resume Playback:** Resume playback with a dedicated recently watched category.
+---
+
+## 📸 Screenshots
+
+| Home & Live TV | Player & EPG | Smart Playlist Manager |
+| :---: | :---: | :---: |
+| ![Home Screen](screenshots/home.png) | ![Player View](screenshots/player.png) | ![Playlist Manager](screenshots/playlists.png) |
+
+---
+
+## 🚀 Key Features
+
+* 📺 **Full Android TV & Phone Support**: Seamless D-Pad navigation for TV remotes alongside touch/gesture controls for smartphones and tablets.
+* ⚡ **Advanced ExoPlayer Engine**: Native hardware decoding for complex audio codecs (AC3, E-AC3, DTS) ensuring ultra-smooth playback without sync drops.
+* 🗂️ **Smart Playlist & Category Management**:
+  * Multi-playlist support for M3U and Xtream Codes (XC) API.
+  * Smart category grouping by country/region tags (UK, US, IT, NL, AR, SPORT).
+  * Bulk category management with real-time search, multi-selection, and instant batch visibility toggling.
+* 🔁 **Binge Mode & Resume Playback**: Auto-play next episode for TV series, with persistent playback state tracking for instant resume.
+* 📺 **Double-Tap Preview Player**: Single-tap to preview any Live TV channel in the sidebar layout, double-tap for immediate full-screen immersion.
+* 📡 **Live Sync Indicator**: Non-blocking background sync banner for EPG and channel data on fresh app opens.
+* 🗓️ **Dynamic EPG Guide**: Integrated Electronic Program Guide with local caching and custom time offsets.
+* 🔒 **Parental Controls & Security**: PIN-protected categories for locking sensitive channels.
+
+---
 
 ## 🛠️ Built With
 
-* **Kotlin:** 100% modern Kotlin codebase.
-* **Jetpack Compose:** Fully declarative, reactive UI framework.
-* **Media3 (ExoPlayer):** Custom media playback engine optimized for streaming arrays.
-* **Coroutines & Flow:** Asynchronous data handling for buttery smooth list scrolling and background EPG fetching.
+* **Language**: 100% Modern Kotlin
+* **UI Toolkit**: Jetpack Compose (Declarative TV & Mobile UI)
+* **Playback Engine**: AndroidX Media3 (ExoPlayer)
+* **Networking**: Retrofit 2.11.0 & Gson (R8 full-mode optimized)
+* **Concurrency**: Kotlin Coroutines & Flow for reactive state management
 
-## 🍿 Upcoming Features
-
-- [ ] Complete UI Refactor using the `Inter` typography suite for a cinematic feel.
-- [ ] Binge Mode (Auto-Play Next Episode with manual skip controls).
+---
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-<details>
-<summary>📸 <b>Click to View App Screenshots & UI</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113229.png" width="700" alt="App Screenshot 1" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113234.png" width="700" alt="App Screenshot 2" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113248.png" width="700" alt="App Screenshot 3" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113352.png" width="700" alt="App Screenshot 4" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113408.png" width="700" alt="App Screenshot 5" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-113413.png" width="700" alt="App Screenshot 6" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-192536.png" width="700" alt="App Screenshot 7" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/refs/heads/main/Screenshot_20260915-192532.png" width="700" alt="App Screenshot 8" />
-</p>
-
-</details>
-
-
-[![Latest Release](https://img.shields.io/github/v/release/Hashaleen420/AdelocIPTV?color=brightgreen&label=Download%20Latest%20APK&logo=android&style=for-the-badge)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest)
-
-
