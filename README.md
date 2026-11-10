@@ -9,13 +9,6 @@ A premium, high-performance Android & Android TV media player built from the gro
 
 ---
 
-## 📸 Screenshots
-
-| Home & Live TV | Player & EPG | Smart Playlist Manager |
-| :---: | :---: | :---: | :---: |
-| ![Home Screen](https://github.com/Hashaleen420/AdelocIPTV/blob/main/home.jpg) | ![Player View](https://github.com/Hashaleen420/AdelocIPTV/blob/main/player.jpg) | ![Playlist Manager](https://github.com/Hashaleen420/AdelocIPTV/blob/main/edit.jpg) | ![Live Section](https://github.com/Hashaleen420/AdelocIPTV/blob/main/livesection.jpg) |
-
----
 
 ## 🚀 Key Features
 
@@ -32,6 +25,23 @@ A premium, high-performance Android & Android TV media player built from the gro
 * 🔒 **Parental Controls & Security**: PIN-protected categories for locking sensitive channels.
 
 ---
+
+<!-- 📸 Collapsible Screenshots Dropdown -->
+<details>
+<summary><b>📸 Click to view App Screenshots</b></summary>
+
+<br />
+
+| Home & Live TV | Player & EPG | Smart Playlist Manager | Live Section |
+| :---: | :---: | :---: | :---: |
+| ![Home Screen](https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/main/home.jpg) | ![Player View](https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/main/player.jpg) | ![Playlist Manager](https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/main/edit.jpg) | ![Live Section](https://raw.githubusercontent.com/Hashaleen420/AdelocIPTV/main/livesection.jpg) |
+
+</details>
+
+---
+
+<!-- 🚀 Download Button Badge -->
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release%20%E2%80%93%20v3.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest)
 
 ## 🛠️ Built With
 
