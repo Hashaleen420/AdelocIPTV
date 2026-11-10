@@ -41,7 +41,8 @@ A premium, high-performance Android & Android TV media player built from the gro
 ---
 
 <!-- 🚀 Download Button Badge -->
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release%20%E2%80%93%20v3.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest)
+<!-- 🚀 Automated Latest Release Download Badge -->
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=android)](https://github.com/Hashaleen420/AdelocIPTV/releases/latest/download/app-release.apk)
 
 ## 🛠️ Built With
 
