@@ -12,8 +12,8 @@ A premium, high-performance Android & Android TV media player built from the gro
 ## 📸 Screenshots
 
 | Home & Live TV | Player & EPG | Smart Playlist Manager |
-| :---: | :---: | :---: |
-| ![Home Screen](screenshots/home.png) | ![Player View](screenshots/player.png) | ![Playlist Manager](screenshots/playlists.png) |
+| :---: | :---: | :---: | :---: |
+| ![Home Screen](https://github.com/Hashaleen420/AdelocIPTV/blob/main/home.jpg) | ![Player View](https://github.com/Hashaleen420/AdelocIPTV/blob/main/player.jpg) | ![Playlist Manager](https://github.com/Hashaleen420/AdelocIPTV/blob/main/edit.jpg) | ![Live Section](https://github.com/Hashaleen420/AdelocIPTV/blob/main/livesection.jpg) |
 
 ---
 
