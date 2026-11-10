@@ -2,7 +2,7 @@
   
   "versionCode": 5,
   "versionName": "2.4",
-  "downloadUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/tag/release2.4/app-release.apk",
+  "downloadUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release2.4/app-release.apk",
   "changelog": "v2.5: Added native Android TV D-Pad support, Auto-play next episode, bulk playlist category manager, preview double-tap, and Samsung R8 stability fixes.",
   "forceUpdate": false
 }
