@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "3.2",
-  "apkUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release3.2/app-release.apk",
-  "releaseNotes": "v3.2: Bug fixes",
+  "versionCode": 8,
+  "versionName": "3.3",
+  "apkUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release3.3/app-release.apk",
+  "releaseNotes": "v3.3: Bug fixes",
   "forceUpdate": false
 }
