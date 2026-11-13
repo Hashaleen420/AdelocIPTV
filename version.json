@@ -2,6 +2,6 @@
   "versionCode": 10,
   "versionName": "3.5",
   "apkUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release3.5/app-release.apk",
-  "releaseNotes": "v3.5: Bug fixes and video playback improvements",
+  "releaseNotes": "v3.5:  Bug fixes: video player channel list doesn't time out until exited. Sorted error of the series episode seeking and crashing app.",
   "forceUpdate": false
 }
