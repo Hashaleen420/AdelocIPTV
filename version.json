@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "4",
-  "apkUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release4.0/app-release.apk",
-  "releaseNotes": "v4.0: Major update: Android TV BUG FIXES!",
+  "versionCode": 12,
+  "versionName": "4.1",
+  "apkUrl": "https://github.com/Hashaleen420/AdelocIPTV/releases/download/release4.1/app-release.apk",
+  "releaseNotes": "v4.1: Major update: Android TV BUG FIXES!",
   "forceUpdate": false
 }
